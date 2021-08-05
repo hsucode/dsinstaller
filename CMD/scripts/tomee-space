@@ -1,0 +1,38 @@
+#!/bin/sh
+
+TOMCAT_HOME=/app/DassaultSystemes/R2021x/3DSpace/linux_a64/code/tomee/
+
+case "$1" in
+
+'start')
+     echo "Starting ENO417 Tomcat Server..."
+     $TOMCAT_HOME/bin/startup.sh
+     ;;
+
+'stop')
+     echo "Stoping ENO417 Tomcat Server..."
+     $TOMCAT_HOME/bin/shutdown.sh
+     ;;
+
+'restart')
+     echo "Stoping ENO417 Tomcat Server..."
+     $TOMCAT_HOME/bin/shutdown.sh
+     echo "Starting ENO417 Tomcat Server..."
+     $TOMCAT_HOME/bin/startup.sh
+     ;;
+
+'viewlog')
+     echo "View Logs at:$TOMCAT_HOME/logs/catalina.out..."
+     tail -n 100000 -f $TOMCAT_HOME/logs/catalina.out 
+     ;;
+
+'cleanlog')
+     echo "Clean Logs.....$TOMCAT_HOME/logs/*"
+     rm –Rf $TOMCAT_HOME/logs/* 
+     ;;
+
+'')
+     echo "Command Error. eg: ./tomcat417 start|stop|restart|viewlog|cleanlog"
+     ;;
+
+esac
