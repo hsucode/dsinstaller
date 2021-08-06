@@ -3,11 +3,11 @@
 *PROJECT PROJECTSPACE;$;PROJECTSPACE;Team;DesignTeam
 +VISIBILITY Protected
 *CTX VPLMProjectLeader;Company Name;PROJECTSPACE
-*PERSON 001;Company Name
+*PERSON designer1;Company Name
 +PASSWORD Qwer1234
 +ATTRIBUTE First Name; Product
 +ATTRIBUTE Last Name; Architect
-+ATTRIBUTE Email Address; 001@3ds.com
++ATTRIBUTE Email Address; designer1@3ds.com
 +CTX VPLMProjectLeader.Company Name.PROJECTSPACE;,;IFW,CSV,CIV,KDI
 +MEMBER Company Name
 
@@ -16,11 +16,11 @@
 *PROJECT PROJECTSPACE;$;PROJECTSPACE;Team;DesignTeam
 +VISIBILITY Protected
 *CTX VPLMProjectLeader;Company Name;PROJECTSPACE
-*PERSON 002;Company Name
+*PERSON designer2;Company Name
 +PASSWORD Qwer1234
 +ATTRIBUTE First Name; Product
 +ATTRIBUTE Last Name; Architect
-+ATTRIBUTE Email Address; 002@3ds.com
++ATTRIBUTE Email Address; designer2@3ds.com
 +CTX VPLMProjectLeader.Company Name.PROJECTSPACE;,;IFW,CSV,CIV,KDI
 +MEMBER Company Name
 
@@ -29,11 +29,11 @@
 *PROJECT PROJECTSPACE;$;PROJECTSPACE;Team;DesignTeam
 +VISIBILITY Protected
 *CTX VPLMProjectLeader;Company Name;PROJECTSPACE
-*PERSON 003;Company Name
+*PERSON designer3;Company Name
 +PASSWORD Qwer1234
 +ATTRIBUTE First Name; Product
 +ATTRIBUTE Last Name; Architect
-+ATTRIBUTE Email Address; 003@3ds.com
++ATTRIBUTE Email Address; designer3@3ds.com
 +CTX VPLMProjectLeader.Company Name.PROJECTSPACE;,;IFW,CSV,CIV,KDI
 +MEMBER Company Name
 
@@ -42,11 +42,11 @@
 *PROJECT PROJECTSPACE;$;PROJECTSPACE;Team;DesignTeam
 +VISIBILITY Protected
 *CTX VPLMProjectLeader;Company Name;PROJECTSPACE
-*PERSON 004;Company Name
+*PERSON designer4;Company Name
 +PASSWORD Qwer1234
 +ATTRIBUTE First Name; Product
 +ATTRIBUTE Last Name; Architect
-+ATTRIBUTE Email Address; 004@3ds.com
++ATTRIBUTE Email Address; designer4@3ds.com
 +CTX VPLMProjectLeader.Company Name.PROJECTSPACE;,;IFW,CSV,CIV,KDI
 +MEMBER Company Name
 
@@ -55,10 +55,10 @@
 *PROJECT PROJECTSPACE;$;PROJECTSPACE;Team;DesignTeam
 +VISIBILITY Protected
 *CTX VPLMProjectLeader;Company Name;PROJECTSPACE
-*PERSON 005;Company Name
+*PERSON designer5;Company Name
 +PASSWORD Qwer1234
 +ATTRIBUTE First Name; Product
 +ATTRIBUTE Last Name; Architect
-+ATTRIBUTE Email Address; 005@3ds.com
++ATTRIBUTE Email Address; designer5@3ds.com
 +CTX VPLMProjectLeader.Company Name.PROJECTSPACE;,;IFW,CSV,CIV,KDI
 +MEMBER Company Name

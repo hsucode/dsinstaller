@@ -1,0 +1,36 @@
+
+*PERSON designer1;Company Name
++ATTRIBUTE First Name;CIV
++ATTRIBUTE Last Name;designer1
++ATTRIBUTE Country;CHN
++ATTRIBUTE Email Address;designer1@3ds.com
+
+
+*PERSON designer2;Company Name
++ATTRIBUTE First Name;CIV
++ATTRIBUTE Last Name;designer2
++ATTRIBUTE Country;CHN
++ATTRIBUTE Email Address;designer2@3ds.com
+
+
+*PERSON designer3;Company Name
++ATTRIBUTE First Name;CIV
++ATTRIBUTE Last Name;designer3
++ATTRIBUTE Country;CHN
++ATTRIBUTE Email Address;designer3@3ds.com
+
+
+*PERSON designer4;Company Name
++ATTRIBUTE First Name;CIV
++ATTRIBUTE Last Name;designer4
++ATTRIBUTE Country;CHN
++ATTRIBUTE Email Address;designer4@3ds.com
+
+
+*PERSON designer5;Company Name
++ATTRIBUTE First Name;CIV
++ATTRIBUTE Last Name;designer5
++ATTRIBUTE Country;CHN
++ATTRIBUTE Email Address;designer5@3ds.com
+
+
