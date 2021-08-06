@@ -1,6 +1,6 @@
 @echo on
 
-set server=E:\DassaultSystemes\R2020x\3DSpace
+set server=E:\DassaultSystemes\R2021x\3DSpace
 set os=win_b64
 
 
