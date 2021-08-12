@@ -1,9 +1,26 @@
 @echo off
-title start up all tomcat
+title = start up all tomcat
 
 cd /d E:\Apache24\bin
 start httpd.exe
 timeout /t 3
+
+
+net start "3DEXPERIENCELauncher"
+timeout /t 3
+
+net start "3DEXPERIENCE R2021x 3DNotification Node"
+timeout /t 3
+
+net start "3DEXPERIENCE R2021x 3DSpace Index"
+timeout /t 3
+
+net start "3DEXPERIENCE R2021x 3DSwym ExternalConverterSvc"
+timeout /t 3
+
+net start "PDFRService_R2021x"
+timeout /t 3
+
 
 cd /d E:\TOMEES\tomee-3dpassport\bin
 set CATALINA_HOME=E:\TOMEES\tomee-3dpassport
@@ -46,4 +63,5 @@ set CATALINA_HOME=E:\TOMEES\tomee-3dswym
 call E:\TOMEES\tomee-3dswym\bin\startup.bat
 timeout /t 30
 
-cd /d E:\Apps\scripts
+
+::cd /d E:\Apps\scripts
