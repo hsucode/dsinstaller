@@ -1,0 +1,5 @@
+关于我的21x服务器的胖客户端搜索报400错误的解决办法如下：
+报错原因：安装了补丁后，没有将fedsearch的补丁的新的反向代理文件，替换掉GA的。
+解决办法：在我的虚拟机中，路径“E:\DassaultSystemes\R2021x\FedSearch\win_b64\templates”中的federated_httpd_fragment.conf文件，复制到路径“E:\Apache24\conf\ds”，直接替换，然后清除胖客户端缓存，经测试，问题解决。
+备注：虽然上面只写了替换fedsearch的反向代理文件，但是我测试的时候是重新吧所有服务的反向代理文件替换了。
+备注2：替换passport的反向代理文件时，由于我安装某个webapp时，用了他的端口8080，所以要修改反向代理文件里面的端口，改成8079即可。
