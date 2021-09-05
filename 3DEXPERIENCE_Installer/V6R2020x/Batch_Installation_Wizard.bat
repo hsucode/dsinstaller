@@ -26,3 +26,4 @@ echo 3DEXPERIENCE_CAA_RADE
 echo 3DEXPERIENCE_CAA_RADE_FP
 %~dp0\Part_3DEXP_AppDevSuite.AllOS\1\Software\DevelopmentToolsetForNativeApps\1\StartTUI.exe --silent  %~dp0\InstallData\RADE\UserIntentions_CODE_422.9.xml
 
+exit
