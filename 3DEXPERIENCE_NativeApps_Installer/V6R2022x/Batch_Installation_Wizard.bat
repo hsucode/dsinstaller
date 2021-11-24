@@ -8,7 +8,7 @@ title R2022x
 rem %~dp0\Java\jre-8u281-windows-i586.exe /s
 
 echo 3DEXPERIENCE_GA
-%~dp0\AM_3DEXP_NativeApps.AllOS\6\3DEXPERIENCE_NativeApps\1\StartTUI.exe --silent %~dp0\InstallData\UserIntentions_CODE.xml
+%~dp0\AM_3DEXP_NativeApps.AllOS\8\3DEXPERIENCE_NativeApps\1\StartTUI.exe --silent %~dp0\InstallData\UserIntentions_CODE.xml
 
 echo 3DEXPERIENCE_FP
 %~dp0\Part_3DEXP_NativeApps.Windows64\1\Software\HF_NativeApps_3DEXP.HF1.Windows64\1\StartTUI.exe --silent  %~dp0\InstallData\UserIntentions_CODE_424.1.xml
