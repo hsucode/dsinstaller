@@ -1,19 +1,27 @@
 @echo off
 
-
-cd /d %~dp0
-@echo 当前地址：%~dp0
+cd %~dp0
 git pull
-echo  添加所有
-rem git rm -r --cached B421\CATAECWksAddin
-rem git rm -r --cached 008-Tutorials of China Country Kit\003-道路曲面.wmv
 git status
-git add .
+rem git add .
 
-::git add 
-@echo 写下您的更新日志，然后按回车键,Write your update log and press ENTER key: 
+git add 3DEXPERIENCE_NativeApps_Installer
+git add 3DEXPERIENCE_Platform_V6R2019x
+git add 3DEXPERIENCE_Platform_V6R2019x_Installer
+git add 3DEXPERIENCE_Platform_V6R2020x
+git add 3DEXPERIENCE_Platform_V6R2020x_Installer
+git add 3DEXPERIENCE_Platform_V6R2021x
+git add 3DEXPERIENCE_Platform_V6R2021x_Installer
+git add 3DEXPERIENCE_Platform_V6R2022x
+git add 3DEXPERIENCE_Platform_V6R2022x_Installer
+
+
+@echo Type your log,then ENTER: 
 set /p GetYourLog=
 git commit -m "%GetYourLog%"
-git push -u origin master
+@echo ------------to gitee------------------ 
+git push -u gitee
+@echo ------------to github------------------ 
+git push -u github
 
 pause
