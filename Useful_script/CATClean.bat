@@ -1,7 +1,7 @@
 rem DassaultSystemes Temp
 echo DassaultSystemes
 Rd/s/q C:\Users\%username%\AppData\Local\DassaultSystemes\
-
+Rd/s/q "C:\Users\Public\Documents\Dassault Systemes\UserCache"
 
 :: ipconfig
 ipconfig/flushdns
