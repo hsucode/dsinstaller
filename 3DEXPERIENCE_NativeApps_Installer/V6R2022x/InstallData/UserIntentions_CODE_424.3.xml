@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<UserIntentions mediaName="CODE\win_b64\GA_DESKTOP_INT.media" mediaVersion="424.1">
+<UserIntentions mediaName="CODE\win_b64\GA_DESKTOP_INT.media" mediaVersion="424.3">
   <SetVariable name="BOOL_InstallCodec" value="false"/>
   <SetVariable item="AdminToolsShortcut" name="CustomShortcuts" value="true"/>
   <SetVariable item="CATIAMenu" name="CustomShortcuts" value="true"/>
@@ -360,7 +360,7 @@
   <SetVariable item="CODE\win_b64\WPZ.prd" name="SelectProduct" value="true"/>
   <!--XCS - Systems C Code Export-->
   <SetVariable item="CODE\win_b64\XCS.prd" name="SelectProduct" value="true"/>
-  <!--MFZ - Systems Multiflash Media-->
+  <!--MFZ - Systems Thermodynamics Connector-->
   <SetVariable item="CODE\win_b64\MFZ.prd" name="SelectProduct" value="true"/>
   <!--MSZ - Systems MSpice Library-->
   <SetVariable item="CODE\win_b64\MSZ.prd" name="SelectProduct" value="true"/>
@@ -450,7 +450,7 @@
   <SetVariable item="CODE\win_b64\VCA.prd" name="SelectProduct" value="true"/>
   <!--RVN - Robotics Virtual Commissioning Analyst-->
   <SetVariable item="CODE\win_b64\RVN.prd" name="SelectProduct" value="true"/>
-  <!--RBS - Robotics Simulation Engineer-->
+  <!--RBS - Robot Programmer-->
   <SetVariable item="CODE\win_b64\RBS.prd" name="SelectProduct" value="true"/>
   <!--NPM - NC Prismatic Machine Programmer-->
   <SetVariable item="CODE\win_b64\NPM.prd" name="SelectProduct" value="true"/>
@@ -786,19 +786,19 @@
   <SetVariable item="CODE\win_b64\MIUMD.prd" name="SelectProduct" value="false"/>
   <!--Physics Results Services-->
   <SetVariable item="CODE\win_b64\SIMHPV_TP.prd" name="SelectProduct" value="false"/>
+  <!--IAD - Aero Surface Modeler-->
+  <SetVariable item="CODE\win_b64\IAD.prd" name="SelectProduct" value="true"/>
+  <!--CDD - Product Industrial Designer-->
+  <SetVariable item="CODE\win_b64\CDD.prd" name="SelectProduct" value="true"/>
+  <!--SAT - Systems Architecture Designer-->
+  <SetVariable item="CODE\win_b64\SAT.prd" name="SelectProduct" value="false"/>
   <!--SEF - Systems Schematic Designer-->
   <SetVariable item="CODE\win_b64\SEF.prd" name="SelectProduct" value="true"/>
   <!--PED - Product Enclosure Designer-->
   <SetVariable item="CODE\win_b64\PED.prd" name="SelectProduct" value="true"/>
-  <!--CDD - Product Industrial Designer-->
-  <SetVariable item="CODE\win_b64\CDD.prd" name="SelectProduct" value="true"/>
-  <!--IAD - Aero Surface Modeler-->
-  <SetVariable item="CODE\win_b64\IAD.prd" name="SelectProduct" value="true"/>
   <!--BDG - Concept Building Designer-->
   <SetVariable item="CODE\win_b64\BDG.prd" name="SelectProduct" value="true"/>
   <!--CBR - Collaborative Circuit Board Designer-->
   <SetVariable item="CODE\win_b64\CBR.prd" name="SelectProduct" value="false"/>
-  <!--SAT - Systems Architecture Designer-->
-  <SetVariable item="CODE\win_b64\SAT.prd" name="SelectProduct" value="false"/>
   <SetVariable item="LaunchExeCATIA" name="FinishPanel" value="false"/>
 </UserIntentions>

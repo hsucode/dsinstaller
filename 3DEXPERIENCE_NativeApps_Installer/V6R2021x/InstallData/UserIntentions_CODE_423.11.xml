@@ -635,7 +635,7 @@
   <!--SXX - STEP Persistence User-->
   <SetVariable item="CODE\win_b64\SXX.prd" name="SelectProduct" value="false"/>
   <!--PHM - Polyhedral Modeler-->
-  <SetVariable item="CODE\win_b64\PHM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PHM.prd" name="SelectProduct" value="false"/>
   <!--CLB - Electronic Component Librarian-->
   <SetVariable item="CODE\win_b64\CLB.prd" name="SelectProduct" value="false"/>
   <!--ESH - Electronic System Schematic Designer-->
@@ -663,7 +663,7 @@
   <!--KAN - Motion Engineer-->
   <SetVariable item="CODE\win_b64\KAN.prd" name="SelectProduct" value="false"/>
   <!--HFR - Hull Form Designer-->
-  <SetVariable item="CODE\win_b64\HFR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\HFR.prd" name="SelectProduct" value="false"/>
   <!--GFT - Generative Functional Tolerancing-->
   <SetVariable item="CODE\win_b64\GFT.prd" name="SelectProduct" value="false"/>
   <!--BSD - Concept Structure Engineer-->
@@ -695,7 +695,7 @@
   <!--E68 - ENOVIA CAA for E68 product-->
   <SetVariable item="CODE\win_b64\E68.prd" name="SelectProduct" value="false"/>
   <!--E70 - ENOVIA CAA for E70 product-->
-  <SetVariable item="CODE\win_b64\E70.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\E70.prd" name="SelectProduct" value="false"/>
   <!--XP6 - X-PDM Connector for ENOVIA V6-->
   <SetVariable item="CODE\win_b64\XP6.prd" name="SelectProduct" value="false"/>
   <!--PUX - X-PDM Integration for PDMS-->
@@ -705,19 +705,19 @@
   <!--VIC - Cross Platform Exchange Responsible-->
   <SetVariable item="CODE\win_b64\VIC.prd" name="SelectProduct" value="false"/>
   <!--XCA - Marketing Content Artist-->
-  <SetVariable item="CODE\win_b64\XCA.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\XCA.prd" name="SelectProduct" value="false"/>
   <!--XAR - Marketing Experience Artist-->
-  <SetVariable item="CODE\win_b64\XAR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\XAR.prd" name="SelectProduct" value="false"/>
   <!--CHA - Marketing Content Animator-->
-  <SetVariable item="CODE\win_b64\CHA.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CHA.prd" name="SelectProduct" value="false"/>
   <!--VRS - Marketing Experience Scripter-->
-  <SetVariable item="CODE\win_b64\VRS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\VRS.prd" name="SelectProduct" value="false"/>
   <!--RDS - Marketing Media Producer-->
-  <SetVariable item="CODE\win_b64\RDS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RDS.prd" name="SelectProduct" value="false"/>
   <!--PPO - Marketing Model Processor-->
   <SetVariable item="CODE\win_b64\PPO.prd" name="SelectProduct" value="false"/>
   <!--SAT - Systems Architecture Designer-->
-  <SetVariable item="CODE\win_b64\SAT.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SAT.prd" name="SelectProduct" value="false"/>
   <!--XRE - Systems Real Time Execution Export-->
   <SetVariable item="CODE\win_b64\XRE.prd" name="SelectProduct" value="false"/>
   <!--XFM - Systems FMU Export-->
@@ -729,25 +729,25 @@
   <!--RWD - Cabletray 3D Systems Designer-->
   <SetVariable item="CODE\win_b64\RWD.prd" name="SelectProduct" value="false"/>
   <!--SEF - Systems Schematic Designer-->
-  <SetVariable item="CODE\win_b64\SEF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SEF.prd" name="SelectProduct" value="false"/>
   <!--PTB - Tubing Designer-->
-  <SetVariable item="CODE\win_b64\PTB.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PTB.prd" name="SelectProduct" value="false"/>
   <!--CBR - Collaborative Circuit Board Designer-->
   <SetVariable item="CODE\win_b64\CBR.prd" name="SelectProduct" value="false"/>
   <!--EMP - Electrical Harness Manufacturing Engineer-->
-  <SetVariable item="CODE\win_b64\EMP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\EMP.prd" name="SelectProduct" value="false"/>
   <!--ELD - Electrical Designer-->
-  <SetVariable item="CODE\win_b64\ELD.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ELD.prd" name="SelectProduct" value="false"/>
   <!--CBF - Collaborative Rigid Flex Circuit Board Designer-->
-  <SetVariable item="CODE\win_b64\CBF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CBF.prd" name="SelectProduct" value="false"/>
   <!--M3D - 3DMaster Designer-->
-  <SetVariable item="CODE\win_b64\M3D.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\M3D.prd" name="SelectProduct" value="false"/>
   <!--MDD - Mechanical Part Designer-->
-  <SetVariable item="CODE\win_b64\MDD.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MDD.prd" name="SelectProduct" value="false"/>
   <!--DWP - Design Review & Preparation-->
   <SetVariable item="CODE\win_b64\DWP.prd" name="SelectProduct" value="false"/>
   <!--MKS - Mechanism Simulation Designer-->
-  <SetVariable item="CODE\win_b64\MKS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MKS.prd" name="SelectProduct" value="false"/>
   <!--MDT - Mechanical Tooling Designer-->
   <SetVariable item="CODE\win_b64\MDT.prd" name="SelectProduct" value="false"/>
   <!--MGE - 3D Designer-->
@@ -759,81 +759,81 @@
   <!--GDS - Function generative Body in White-->
   <SetVariable item="CODE\win_b64\GDS.prd" name="SelectProduct" value="false"/>
   <!--SUA - Shape Designer-->
-  <SetVariable item="CODE\win_b64\SUA.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SUA.prd" name="SelectProduct" value="false"/>
   <!--M3H - Multi-Discipline 3DMaster Mechanical Designer-->
   <SetVariable item="CODE\win_b64\M3H.prd" name="SelectProduct" value="false"/>
   <!--DOF - Function Driven Refinement Designer-->
-  <SetVariable item="CODE\win_b64\DOF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\DOF.prd" name="SelectProduct" value="false"/>
   <!--SHL - Sheet Metal Excellence Designer-->
   <SetVariable item="CODE\win_b64\SHL.prd" name="SelectProduct" value="false"/>
   <!--SMH - Hydroformed SheetMetal Designer-->
-  <SetVariable item="CODE\win_b64\SMH.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SMH.prd" name="SelectProduct" value="false"/>
   <!--MQD - Machine & Equipment Designer-->
   <SetVariable item="CODE\win_b64\MQD.prd" name="SelectProduct" value="false"/>
   <!--MQS - Shaped Machine & Equipment Designer-->
   <SetVariable item="CODE\win_b64\MQS.prd" name="SelectProduct" value="false"/>
   <!--MEF - Powertrain & Chassis Designer-->
-  <SetVariable item="CODE\win_b64\MEF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MEF.prd" name="SelectProduct" value="false"/>
   <!--KHC - Quality Rules Designer-->
-  <SetVariable item="CODE\win_b64\KHC.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\KHC.prd" name="SelectProduct" value="false"/>
   <!--KPO - Product Optimization Designer-->
-  <SetVariable item="CODE\win_b64\KPO.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\KPO.prd" name="SelectProduct" value="false"/>
   <!--KDI - Template Designer-->
-  <SetVariable item="CODE\win_b64\KDI.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\KDI.prd" name="SelectProduct" value="false"/>
   <!--CDE - Composites Designer-->
-  <SetVariable item="CODE\win_b64\CDE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CDE.prd" name="SelectProduct" value="false"/>
   <!--CDF - Composites Engineer-->
   <SetVariable item="CODE\win_b64\CDF.prd" name="SelectProduct" value="false"/>
   <!--VSO - Reverse Shape Optimizer-->
-  <SetVariable item="CODE\win_b64\VSO.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\VSO.prd" name="SelectProduct" value="false"/>
   <!--CMF - Composites Manufacturer-->
-  <SetVariable item="CODE\win_b64\CMF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CMF.prd" name="SelectProduct" value="false"/>
   <!--FPP - Plastic Mechanical Designer-->
   <SetVariable item="CODE\win_b64\FPP.prd" name="SelectProduct" value="false"/>
   <!--CBA - Composites Braiding Designer-->
-  <SetVariable item="CODE\win_b64\CBA.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CBA.prd" name="SelectProduct" value="false"/>
   <!--CDL - Composites Designer & Manufacturer-->
   <SetVariable item="CODE\win_b64\CDL.prd" name="SelectProduct" value="false"/>
   <!--FDE - Fasteners Designer-->
-  <SetVariable item="CODE\win_b64\FDE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\FDE.prd" name="SelectProduct" value="false"/>
   <!--SAO - Space Allocation Architect-->
-  <SetVariable item="CODE\win_b64\SAO.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SAO.prd" name="SelectProduct" value="false"/>
   <!--CLJ - Composites Laser Projection Operator-->
-  <SetVariable item="CODE\win_b64\CLJ.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CLJ.prd" name="SelectProduct" value="false"/>
   <!--ACG - Accommodation Designer-->
-  <SetVariable item="CODE\win_b64\ACG.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ACG.prd" name="SelectProduct" value="false"/>
   <!--STR - Structure Designer-->
-  <SetVariable item="CODE\win_b64\STR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\STR.prd" name="SelectProduct" value="false"/>
   <!--SEL - Steel and Equipment Layout Designer-->
-  <SetVariable item="CODE\win_b64\SEL.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SEL.prd" name="SelectProduct" value="false"/>
   <!--DFR - Stamping Die Designer-->
-  <SetVariable item="CODE\win_b64\DFR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\DFR.prd" name="SelectProduct" value="false"/>
   <!--MOL - Mold Designer-->
   <SetVariable item="CODE\win_b64\MOL.prd" name="SelectProduct" value="false"/>
   <!--CFR - Composites Forming Designer-->
-  <SetVariable item="CODE\win_b64\CFR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CFR.prd" name="SelectProduct" value="false"/>
   <!--IDW - Piping & HVAC Automated Drafter-->
   <SetVariable item="CODE\win_b64\IDW.prd" name="SelectProduct" value="false"/>
   <!--CIV - Civil Engineer-->
-  <SetVariable item="CODE\win_b64\CIV.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CIV.prd" name="SelectProduct" value="false"/>
   <!--STV - Building Structures Designer-->
-  <SetVariable item="CODE\win_b64\STV.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\STV.prd" name="SelectProduct" value="false"/>
   <!--ADL - Architectural Detail Designer-->
-  <SetVariable item="CODE\win_b64\ADL.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ADL.prd" name="SelectProduct" value="false"/>
   <!--BDG - Concept Building Designer-->
   <SetVariable item="CODE\win_b64\BDG.prd" name="SelectProduct" value="true"/>
   <!--BIM - Building and Civil Coordinator-->
-  <SetVariable item="CODE\win_b64\BIM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\BIM.prd" name="SelectProduct" value="false"/>
   <!--CFT - Converters for Construction-->
-  <SetVariable item="CODE\win_b64\CFT.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CFT.prd" name="SelectProduct" value="false"/>
   <!--MLT - 3D MEP Designer-->
-  <SetVariable item="CODE\win_b64\MLT.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MLT.prd" name="SelectProduct" value="false"/>
   <!--CTN - Structural Package Designer-->
-  <SetVariable item="CODE\win_b64\CTN.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\CTN.prd" name="SelectProduct" value="false"/>
   <!--PED - Product Enclosure Designer-->
-  <SetVariable item="CODE\win_b64\PED.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PED.prd" name="SelectProduct" value="false"/>
   <!--FPM - Interior Designer-->
-  <SetVariable item="CODE\win_b64\FPM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\FPM.prd" name="SelectProduct" value="false"/>
   <!--BWE - Body In White Designer-->
   <SetVariable item="CODE\win_b64\BWE.prd" name="SelectProduct" value="false"/>
   <!--CDD - Product Industrial Designer-->
@@ -845,81 +845,81 @@
   <!--IAD - Aero Surface Modeler-->
   <SetVariable item="CODE\win_b64\IAD.prd" name="SelectProduct" value="true"/>
   <!--FFX - Class A Expert-->
-  <SetVariable item="CODE\win_b64\FFX.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\FFX.prd" name="SelectProduct" value="false"/>
   <!--SUF - Shape Morphing Modeler-->
-  <SetVariable item="CODE\win_b64\SUF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SUF.prd" name="SelectProduct" value="false"/>
   <!--FFS - Aesthetical Shape Modeler-->
-  <SetVariable item="CODE\win_b64\FFS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\FFS.prd" name="SelectProduct" value="false"/>
   <!--VXP - Product Experience Presenter-->
-  <SetVariable item="CODE\win_b64\VXP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\VXP.prd" name="SelectProduct" value="false"/>
   <!--SDW - Multi-Discipline Automated Drafter-->
-  <SetVariable item="CODE\win_b64\SDW.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SDW.prd" name="SelectProduct" value="false"/>
   <!--PPA - Fastener Process Planner-->
-  <SetVariable item="CODE\win_b64\PPA.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PPA.prd" name="SelectProduct" value="false"/>
   <!--FDP - Manufactured Part Process Planner-->
   <SetVariable item="CODE\win_b64\FDP.prd" name="SelectProduct" value="false"/>
   <!--TMA - Time Study Analyst-->
   <SetVariable item="CODE\win_b64\TMA.prd" name="SelectProduct" value="false"/>
   <!--ASE - Assembly Simulation Expert (Former)-->
-  <SetVariable item="CODE\win_b64\ASE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ASE.prd" name="SelectProduct" value="false"/>
   <!--WKS - Work Instructions Designer-->
-  <SetVariable item="CODE\win_b64\WKS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\WKS.prd" name="SelectProduct" value="false"/>
   <!--PND - Work Plan Release Manager-->
-  <SetVariable item="CODE\win_b64\PND.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PND.prd" name="SelectProduct" value="false"/>
   <!--MFM - Heavy Industry Assembly Planner-->
-  <SetVariable item="CODE\win_b64\MFM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MFM.prd" name="SelectProduct" value="false"/>
   <!--PPM - Heavy Industry Process Planner-->
-  <SetVariable item="CODE\win_b64\PPM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\PPM.prd" name="SelectProduct" value="false"/>
   <!--WPM - Heavy Industry Structure Manufacturer-->
-  <SetVariable item="CODE\win_b64\WPM.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\WPM.prd" name="SelectProduct" value="false"/>
   <!--MPO - Heavy Industry Fluidic Manufacturer-->
-  <SetVariable item="CODE\win_b64\MPO.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MPO.prd" name="SelectProduct" value="false"/>
   <!--EQE - Shop Floor Equipment Engineer-->
-  <SetVariable item="CODE\win_b64\EQE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\EQE.prd" name="SelectProduct" value="false"/>
   <!--ESD - Shop Floor Designer-->
-  <SetVariable item="CODE\win_b64\ESD.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ESD.prd" name="SelectProduct" value="false"/>
   <!--EQS - Shop Floor Equipment Simulation Engineer-->
-  <SetVariable item="CODE\win_b64\EQS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\EQS.prd" name="SelectProduct" value="false"/>
   <!--IEN - Industrial Engineer-->
-  <SetVariable item="CODE\win_b64\IEN.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\IEN.prd" name="SelectProduct" value="false"/>
   <!--DME - 3D Design for Manufacturing Engineer-->
-  <SetVariable item="CODE\win_b64\DME.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\DME.prd" name="SelectProduct" value="false"/>
   <!--DPP - Part Preparation for Manufacturing Engineer-->
-  <SetVariable item="CODE\win_b64\DPP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\DPP.prd" name="SelectProduct" value="false"/>
   <!--RTS - Robotics Engineer-->
-  <SetVariable item="CODE\win_b64\RTS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RTS.prd" name="SelectProduct" value="false"/>
   <!--ROL - Robotics Offline Programmer-->
-  <SetVariable item="CODE\win_b64\ROL.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ROL.prd" name="SelectProduct" value="false"/>
   <!--RSE - Robotics Spot Engineer-->
-  <SetVariable item="CODE\win_b64\RSE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RSE.prd" name="SelectProduct" value="false"/>
   <!--RAE - Robotics Arc Engineer-->
-  <SetVariable item="CODE\win_b64\RAE.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RAE.prd" name="SelectProduct" value="false"/>
   <!--RSF - Robotics Surface Engineer-->
-  <SetVariable item="CODE\win_b64\RSF.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RSF.prd" name="SelectProduct" value="false"/>
   <!--ROS - Robotics Optimization Expert-->
-  <SetVariable item="CODE\win_b64\ROS.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\ROS.prd" name="SelectProduct" value="false"/>
   <!--RCV - Virtual Commissioning Expert-->
-  <SetVariable item="CODE\win_b64\RCV.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\RCV.prd" name="SelectProduct" value="false"/>
   <!--NMG - NC Milling Machining Programmer-->
-  <SetVariable item="CODE\win_b64\NMG.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NMG.prd" name="SelectProduct" value="false"/>
   <!--NPT - NC Prismatic & Turning Programmer-->
-  <SetVariable item="CODE\win_b64\NPT.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NPT.prd" name="SelectProduct" value="false"/>
   <!--NMX - NC Multi-Axis Milling Programmer-->
-  <SetVariable item="CODE\win_b64\NMX.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NMX.prd" name="SelectProduct" value="false"/>
   <!--NMT - NC Multi-Axis Milling & Turning Programmer-->
-  <SetVariable item="CODE\win_b64\NMT.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NMT.prd" name="SelectProduct" value="false"/>
   <!--NMV - NC Machine Code Validation Specialist-->
-  <SetVariable item="CODE\win_b64\NMV.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NMV.prd" name="SelectProduct" value="false"/>
   <!--NDR - Drill & Fill Engineer-->
-  <SetVariable item="CODE\win_b64\NDR.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\NDR.prd" name="SelectProduct" value="false"/>
   <!--AMR - Additive Manufacturing Engineer-->
   <SetVariable item="CODE\win_b64\AMR.prd" name="SelectProduct" value="false"/>
   <!--AMP - Powder Bed Programmer-->
-  <SetVariable item="CODE\win_b64\AMP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\AMP.prd" name="SelectProduct" value="false"/>
   <!--MNP - Material Deposition Programmer-->
-  <SetVariable item="CODE\win_b64\MNP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\MNP.prd" name="SelectProduct" value="false"/>
   <!--DCC - Distortion Checker for Additive Manufacturing-->
-  <SetVariable item="CODE\win_b64\DCC.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\DCC.prd" name="SelectProduct" value="false"/>
   <!--DER - Design Reviewer-->
   <SetVariable item="CODE\win_b64\DER.prd" name="SelectProduct" value="false"/>
   <!--IYE - 3DEXPERIENCE Essentials for Students-->
@@ -997,7 +997,7 @@
   <!--Abaqus/Explicit Solver-->
   <SetVariable item="CODE\win_b64\SIMAQXL_TP.prd" name="SelectProduct" value="false"/>
   <!--Cosimulation Services-->
-  <SetVariable item="CODE\win_b64\SIMCSS_TP.prd" name="SelectProduct" value="true"/>
+  <SetVariable item="CODE\win_b64\SIMCSS_TP.prd" name="SelectProduct" value="false"/>
   <!--Abaqus ODB API Services-->
   <SetVariable item="CODE\win_b64\SIMODB_TP.prd" name="SelectProduct" value="false"/>
   <!--SXK - All Physics Analyst Extended-->
