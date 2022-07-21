@@ -16,3 +16,16 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+# V5
+CAA_CATIA_P3.win_b64/
+CATIA_P3.win_b64/
+DELMIA.win_b64/
+HOTFIXR27SP6/
+RADE.win_b64/
+PK.win_b64/
+SPK_CAA.win_b64/
+
+AM_3DEXP_NativeApps.AllOS
+Java
+Part_3DEXP_NativeApps.Windows64

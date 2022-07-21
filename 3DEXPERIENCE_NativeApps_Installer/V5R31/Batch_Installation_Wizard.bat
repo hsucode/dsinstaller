@@ -1,6 +1,6 @@
 cd /d %~dp0
 :GA
-CATIA_P3.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B31" -newdir -D "C:\Program Files\Dassault Systemes\B31\CATEnv"  -all -v -addUserPrivilegesForOrbix
+CATIA_P3.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B31" -newdir -D "C:\Program Files\Dassault Systemes\B31\CATEnv"  -all -v 
 DELMIA.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B31" -newdir -D "C:\Program Files\Dassault Systemes\B31\CATEnv"  -all -v 
 
 :SP

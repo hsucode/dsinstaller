@@ -1,7 +1,7 @@
 cd /d %~dp0
 :GA
-CATIA_P3.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B27" -newdir -D "C:\Program Files\Dassault Systemes\B27\CATEnv"  -all -v -addUserPrivilegesForOrbix
-DELMIA.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B27" -newdir -D "C:\Program Files\Dassault Systemes\B27\CATEnv"  -all -v 
+CATIA_P3.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B27" -newdir -D "C:\Program Files\Dassault Systemes\B27\CATEnv"  -all -v 
+::DELMIA.win_b64\1\WIN64\StartB -u "C:\Program Files\Dassault Systemes\B27" -newdir -D "C:\Program Files\Dassault Systemes\B27\CATEnv"  -all -v 
 
 :SP
 SPK.win_b64\1\WIN64\StartSPKB -u "C:\Program Files\Dassault Systemes\B27" -bC -killprocess -v
