@@ -1,0 +1,8 @@
+#!/bin/sh
+
+MX_SERVER=/app/DassaultSystemes/R2021x/3DSpace
+echo 
+echo "INFO: Start $MX_SERVER/scripts/mql"
+#$MX_SERVER/scripts/mql $*
+$MX_SERVER/scripts/mql $"/app/scripts/rebuildsearch.tcl"
+
