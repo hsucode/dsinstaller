@@ -1,0 +1,10 @@
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B422\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2020x\InstallData\
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B422_RADE\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2020x\InstallData\RADE\
+
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B423\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2021x\InstallData\
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B423_RADE\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2021x\InstallData\RADE\
+
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B424\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2022x\InstallData\
+xcopy /s /e /c /y /h /r /d "C:\Program Files\Dassault Systemes\B424_RADE\InstallData\*UserIntentions_CODE*" D:\DS-INSTALL\3DEXPERIENCE_NativeApps_Installer\V6R2022x\InstallData\RADE\
+
+pause
