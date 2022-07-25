@@ -18,7 +18,7 @@ echo 3DEXPERIENCE_CAA
 .\AM_3DEXP_AppDevSuite.AllOS\1\APIForNativeAppsDevelopment\Windows64\1\StartTUI.exe --silent  .\InstallData\UserIntentions_CAA_Additional_422.xml
 
 echo 3DEXPERIENCE_CAA_FP
-.\Part_3DEXP_AppDevSuite.AllOS\1\Software\HF_CAABuildTime.HF9.Windows64\1\StartTUI.exe --silent  .\InstallData\UserIntentions_CAA_422.12.xml
+.\Part_3DEXP_AppDevSuite.AllOS\1\Software\HF_CAABuildTime.HF18.Windows64\1\StartTUI.exe --silent  .\InstallData\UserIntentions_CAA_422.18.xml
 
 echo 3DEXPERIENCE_CAA_RADE
 .\AM_3DEXP_AppDevSuite.AllOS\1\DevelopmentToolsetForNativeApps\Windows64\1\StartTUI.exe --silent  .\InstallData\RADE\UserIntentions_CODE.xml
